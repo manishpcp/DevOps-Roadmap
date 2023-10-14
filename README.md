@@ -26,7 +26,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 All your resources (files) will be held in a GIT repository. Those files are **application code** but also **infrastructure as a code**. 
 
-**Git** is a free tool used for source code management. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. 
+**Git** is a free tool used for source code management. Git is used to track changes in the source code, enabling multiple developers to work together on non-linear development. 
 
 The two most popular Git platforms are **GitLab** and **GitHub**.
 
@@ -87,6 +87,8 @@ Resources:
 
 A **network protocol** is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure, or design. 
 
+Basics of Security Operations, this has to be part of the secure DevOps pipeline.
+
 Here you will need to know how a network works, how to configure **firewalls**, understand how **DNS** works, **OSI model**, IP addresses, ports, etc.
 
 Resources:
@@ -97,6 +99,7 @@ Resources:
 - [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
 - [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.com/Hands-Security-DevOps-continuous-deployment/dp/1788995503) <sup> Book</sup>
 - [Securing DevOps: Security in the Cloud](https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136/) <sup> Book</sup>
+- [Security Fundamentals for DevOps Engineer](https://www.udemy.com/course/fundamentals-of-devsecops-handson-included/?referralCode=2727A08C4E20FEAB3BCA) <sup> Udemy course</sup>
 
 ### 5. Learn Server Management
 
@@ -130,7 +133,7 @@ Resources:
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers) <sup>FREE</sup>
 - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) <sup>FREE</sup>
 - [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) <sup>FREE</sup>
-- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
+- [Docker A-Z+Kubernetes Basics-HandsOn-DevOps(2023): ](https://www.udemy.com/course/docker-devops/?referralCode=ECEDBD3CEC6B99717566) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 
 ### 7. Learn Container Orchestration
@@ -201,7 +204,7 @@ Resources:
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
 - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
-- [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
+- [Jenkins](https://www.udemy.com/course/jenkins-zero-to-pro/?referralCode=B22728019BE14B80A3A8) <sup>Udemy Course</sup>
 - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
 - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
 - [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
@@ -268,10 +271,13 @@ Resources:
 - **Work Tracking**:** [Asana](https://asana.com/), [Monday](https://monday.com/), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azure Boards](https://azure.microsoft.com/en-au/products/devops/boards/).
 - **Source code control**: [Git](https://git-scm.com/), [Github](https://github.com/), [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops).
 - **CI/CD**: [Jenkins](https://www.jenkins.io/), [Team City](https://www.jetbrains.com/teamcity/), [Github Actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/), [Bamboo](https://www.atlassian.com/software/bamboo), [Circle CI](https://circleci.com/), [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines/), [Octopus Deploy](https://octopus.com/), [Harness](https://www.harness.io/), [CloudBees CodeShip](https://www.cloudbees.com/products/codeship).
+  -** CI/CD with Jenkins **: [Jenkins](https://www.udemy.com/course/jenkins-zero-to-pro/?referralCode=B22728019BE14B80A3A8) 
 - **Source Code Analysis**: [SonarQube](https://www.sonarsource.com/products/sonarqube/), [Veracode](https://www.veracode.com/).
+  - **Udemy Course Link on Complete SonarQUbe**: [SonarQube](https://tinyurl.com/mzfukn4p)
 - **Artifact management**: [Artifactory](https://jfrog.com/artifactory/), [Docker Container Register](https://docs.docker.com/registry/), [npm](https://www.npmjs.com/), [Yarn](https://yarnpkg.com/), [NuGet](https://www.nuget.org/).
 - **Configuration Management**: [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Puppet](https://www.puppet.com/), [Chef](https://www.chef.io/).
 - **Container orchestration**: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
+  - **Udemy Course Link on docker**: [Docker(https://tinyurl.com/2ffv8yjn)]
 - **Monitoring**: [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [Splunk](https://www.splunk.com/), [Dynatrace](https://www.dynatrace.com/), [Kibana](https://www.elastic.co/kibana/).
 
 ![DevOps roadmap](devops%20tools.png)
