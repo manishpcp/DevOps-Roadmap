@@ -331,7 +331,7 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 
 ## Author
 
-- [Er. Amrit Choudhary](https://amritchoudhary.graphy.com) -  DevOps | DevSecOps | cloud Architect.)]
+- [Er. Amrit Choudhary](https://amritchoudhary.graphy.com) -  DevOps | DevSecOps | cloud Architect
 
 ## Drawing inspiration 
 - [Dr. Milan Milanović](https://milan.milanovic.org) 
