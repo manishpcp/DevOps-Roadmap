@@ -1,4 +1,4 @@
-# DevOps Roadmap 2023.
+# DevOps Roadmap 2025.
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
@@ -75,6 +75,7 @@ Here you can learn OS-specific languages, such as **Bash or Powershell**, or ind
 
 Resources:
 
+- [Linux Fundamentals overview - Overview](https://www.udemy.com/course/introduction-to-linux-crash-course/?referralCode=813306DDFF584A13AEF1) <sup>FREE</sup>
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
 - [Powershell Tutorial for Beginners: Learn Powershell Scripting](https://www.guru99.com/powershell-tutorial.html)  <sup>FREE</sup>
@@ -99,7 +100,7 @@ Resources:
 - [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
 - [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.com/Hands-Security-DevOps-continuous-deployment/dp/1788995503) <sup> Book</sup>
 - [Securing DevOps: Security in the Cloud](https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136/) <sup> Book</sup>
-- [Security Fundamentals for DevOps Engineer](https://www.udemy.com/course/fundamentals-of-devsecops-handson-included/?referralCode=2727A08C4E20FEAB3BCA) <sup> Udemy course</sup>
+- [Security Fundamentals for DevOps Engineer](https://shorturl.at/H9kqG) <sup> popular course</sup>
 
 ### 5. Learn Server Management
 
@@ -328,7 +329,11 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Authors
+## Author
 
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
-- [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).
+- [Er. Amrit Choudhary](https://amritchoudhary.graphy.com) -  DevOps | DevSecOps | cloud Architect.)]
+
+## Drawing inspiration 
+- [Dr. Milan Milanović](https://milan.milanovic.org) 
+
+
