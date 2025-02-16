@@ -94,7 +94,7 @@ Here you will need to know how a network works, how to configure **firewalls**, 
 
 Resources:
 
-- [OSI Model Explained](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/) <sup>FREE</sup>
+- [OSI Model Explained](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/) <sup>Youtube</sup>
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup>
 - [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros) <sup>Pluralsight course</sup>
 - [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
@@ -133,7 +133,6 @@ Resources:
 
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers) <sup>FREE</sup>
 - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) <sup>FREE</sup>
-- [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) <sup>FREE</sup>
 - [Docker A-Z+Kubernetes Basics-HandsOn-DevOps(2023): ](https://www.udemy.com/course/docker-devops/?referralCode=ECEDBD3CEC6B99717566) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 
@@ -161,7 +160,7 @@ Resources:
 
 Sometimes referred to as **IaC**, it refers to the techniques and tools used to define infrastructure, typically in a markup language like YAML or JSON. Infrastructure as code allows Engineers to automate environment setup and teardown. Accelerates and de-risks deployment by provisioning gold copy environments on demand.
 
-**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansimble, Chef, Puppet, and Vagrant.
+**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansible, Chef, Puppet, and Vagrant.
 
 Here you need to know how to do **infrastructure provisioning** and **configuration management**.
 
@@ -257,7 +256,8 @@ Here you need to know what is **Scrum**, all phases of **SDLC**, how **automatio
 
 Resources:
 
-- [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
+- [What is waterfall model ?](https://youtu.be/BtWnTx6hIP0) <sup>youtube free video</sup>
+- [What is Scrum? Scrum vs kanban](https://youtu.be/Rojx1YPB9LY) <sup>youtube free video</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
 - [Software Development Life Cycle (SDLC) Phases & Models](https://www.guru99.com/software-development-life-cycle-tutorial.html) <sup>FREE</sup>
 - [The Beginner's Guide to Agile in Jira: Course description](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) <sup>FREE</sup>
@@ -333,7 +333,7 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 
 - [Er. Amrit Choudhary](https://amritchoudhary.graphy.com) -  DevOps | DevSecOps | cloud Architect
 
-## Drawing inspiration 
+## inspiration 
 - [Dr. Milan Milanović](https://milan.milanovic.org) 
 
 
